@@ -1,0 +1,9 @@
+streamlit
+ollama
+pydantic
+python-docx
+reportlab
+python-pptx
+openpyxl
+matplotlib
+odfpy
